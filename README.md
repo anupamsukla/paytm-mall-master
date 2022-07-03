@@ -21,9 +21,12 @@ git clone https://github.com/haldaranup/paytm-mall.git
 https://paytm-mall-masai.netlify.app
 
 ## Contributers :- 
+- #### [Anupam Anand](https://www.linkedin.com/in/anupam-anand-a0802791/)
 - #### [Sagar](https://www.linkedin.com/in/sagar-pradhan16/)
 - #### [Anup Haldar](https://www.linkedin.com/in/haldar-anup/)
 - #### [Rahul Yadav](https://www.linkedin.com/in/mrah100/)
+
+
 
 
 
